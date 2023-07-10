@@ -1,5 +1,7 @@
 ## DAO Decentralized Autonomous Organization
 
+Here we learn how to build and deploy a DAO deploy a governance token
+
 ## Box Contract 
 
 deployed in Sepolia testnet
@@ -13,4 +15,4 @@ https://sepolia.etherscan.io/address/0xCbF1E4aFB413B6baB377c80e4732F9E001690bF7#
 
 https://sepolia.etherscan.io/address/0x77F6370D76A9446088FD2267F27AF1C72CfA4ea1#code
 
-# Dao-Hardhat-Fcc
+
